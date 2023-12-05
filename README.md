@@ -30,7 +30,7 @@
 - Schedule Interview
   ![Interview](./images/InterviewSchedule.PNG)
 
-  - Jobs List
+- Jobs List
   ![Interview](./images/JobsList.PNG)
 
 ## Setup
