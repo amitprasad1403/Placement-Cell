@@ -16,7 +16,7 @@
 
  
 - Sign In
-  ![Sign-In](/images/login.PNG)
+  ![Sign-In](blob/main/images/AddStudent.png)
 
 - Student Page
   ![Student-Page](./images/studentlist.PNG)
