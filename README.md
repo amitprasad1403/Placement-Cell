@@ -16,7 +16,7 @@
 
  
 - Sign In
-  ![Sign-In](./images/login.PNG)
+  ![Sign-In](/images/login.PNG)
 
 - Student Page
   ![Student-Page](./images/studentlist.PNG)
