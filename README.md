@@ -16,7 +16,7 @@
 
  
 - Sign In
-  ![Sign-In](blob/main/images/AddStudent.png)
+  ![Sign-In](https://github.com/amitprasad1403/Placement-Cell/blob/main/images/studentlist.png)
 
 - Student Page
   ![Student-Page](./images/studentlist.PNG)
