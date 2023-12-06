@@ -16,22 +16,22 @@
 
  
 - Sign In
-  ![Sign-In](https://github.com/amitprasad1403/Placement-Cell/blob/main/images/studentlist.png)
+  ![Sign-In](https://github.com/amitprasad1403/Placement-Cell/blob/main/images/login.png)
 
 - Student Page
-  ![Student-Page](./images/studentlist.PNG)
+  ![Student-Page](https://github.com/amitprasad1403/Placement-Cell/blob/main/images/studentlist.PNG)
 
 - Interview Page
-  ![Interview-Page](./images/companylist.PNG)
+  ![Interview-Page](https://github.com/amitprasad1403/Placement-Cell/blob/main/images/companylist.PNG)
 
 - Add student
-  ![Add-Student](./images/AddStudent.PNG)
+  ![Add-Student](https://github.com/amitprasad1403/Placement-Cell/blob/main/images/AddStudent.PNG)
 
 - Schedule Interview
-  ![Interview](./images/InterviewSchedule.PNG)
+  ![Interview](https://github.com/amitprasad1403/Placement-Cell/blob/main/images/InterviewSchedule.PNG)
 
 - Jobs List
-  ![Interview](./images/JobsList.PNG)
+  ![Interview](https://github.com/amitprasad1403/Placement-Cell/blob/main/images/JobsList.PNG)
 
 ## Setup
 
